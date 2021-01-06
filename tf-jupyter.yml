@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: tf2.4-app
+  name: tf24app
   labels:
     app: tf001
 spec:
