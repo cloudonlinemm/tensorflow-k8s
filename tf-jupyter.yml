@@ -32,4 +32,4 @@ spec:
             # PVC name you created
             claimName: tf-pvc
       nodeSelector:
-        accelerator: nvidia-gt710
+        accelerator: nvidia-gt710 
